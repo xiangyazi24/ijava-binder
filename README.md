@@ -1,7 +1,8 @@
 # ijava-binder
 
 
-[![Launch IJava binder][binder-badge-img]](https://mybinder.org/v2/gh/SpencerPark/ijava-binder/master) [![Launch IJava lab binder][binder-lab-badge-img]](https://mybinder.org/v2/gh/SpencerPark/ijava-binder/master?urlpath=lab)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/xiangyazi24/ijava-binder.git/master)
+
 
 A [Binder](https://mybinder.org/) compatible repository to try out the [IJava](https://github.com/SpencerPark/IJava) kernel with just a web browser. Depending on if the docker image is already built, spawning the notebook may take some time and so please be patient with it.
 
